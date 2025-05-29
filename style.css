@@ -59,12 +59,9 @@ button {
 
 /* Responsive tweaks */
 @media (max-width: 400px) {
-    h1 {
-        font-size: 20px;
-    }
-
     input[type="text"],
     button {
-        font-size: 14px;
+        font-size: 16px !important;
     }
 }
+
